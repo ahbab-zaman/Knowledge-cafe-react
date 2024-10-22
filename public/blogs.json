@@ -1,0 +1,43 @@
+[
+      {
+      "id" : 1,
+      "cover": "https://i.ibb.co.com/ws0jzmd/1.jpg",
+      "author_title": "John Doe",
+      "release_date": "2024-01-15",
+      "author_image": "https://i.ibb.co.com/HXCng7Y/boy1.png",
+      "reading_time" : 4,
+      "description": "This is a comprehensive guide on modern web development practices.",
+      "hash_tags": ["#WebDevelopment", "#JavaScript", "#CSS"]
+    },
+    {
+      "id" : 2,
+      "cover": "https://i.ibb.co.com/52WVCVj/2.png",
+      "author_title": "Jane Smith",
+      "release_date": "2023-11-22",
+      "author_image": "https://i.ibb.co.com/Vv0zJmD/boy2.jpg",
+      "reading_time" : 16,
+      "description": "Learn how to create stunning animations with CSS and JavaScript.",
+      "hash_tags": ["#Animations", "#CSS", "#Frontend"]
+    },
+    {
+      "id" : 3,
+      "cover": "https://i.ibb.co.com/BKmDnrc/3.png",
+      "author_title": "Ahmed Khan",
+      "release_date": "2023-10-10",
+      "author_image": "https://i.ibb.co.com/9HQF1qz/girl1.jpg",
+      "reading_time" : 10,
+      "description": "An in-depth look into Python's data science libraries and frameworks.",
+      "hash_tags": ["#Python", "#DataScience", "#MachineLearning"]
+    },
+    {
+      "id" : 4,
+      "cover": "https://i.ibb.co.com/m0jG6M4/4.jpg",
+      "author_title": "Emily Chen",
+      "release_date": "2023-12-05",
+      "author_image": "https://i.ibb.co.com/gFPmNYm/girl2.jpg",
+      "reading_time" : 6,
+      "description": "Master the art of building responsive websites with modern frameworks.",
+      "hash_tags": ["#ResponsiveDesign", "#HTML5", "#Bootstrap"]
+    }
+  ]
+  
